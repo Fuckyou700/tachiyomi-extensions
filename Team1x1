@@ -1,0 +1,26 @@
+$ tree src/<AR>/<team1x1>/
+src/<AR>/<team1x1>/
+├── AndroidManifest.xml
+├── build.gradle
+├── res
+│   ├── mipmap-hdpi
+│   │   └── ic_launcher.png
+│   ├── mipmap-mdpi
+│   │   └── ic_launcher.png
+│   ├── mipmap-xhdpi
+│   │   └── ic_launcher.png
+│   ├── mipmap-xxhdpi
+│   │   └── ic_launcher.png
+│   ├── mipmap-xxxhdpi
+│   │   └── ic_launcher.png
+│   └── web_hi_res_512.png
+└── src
+    └── eu
+        └── kanade
+            └── tachiyomi
+                └── extension
+                    └── <AR>
+                        └── <team1x1>
+                            └── <team1x1>.kt
+
+13 directories, 9 files
